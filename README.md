@@ -1,2 +1,2 @@
 # hello-world
-intro to github program
+This was created to introduce myself to using github
